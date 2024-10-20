@@ -1,4 +1,5 @@
-import {assets} from '../assets/assets'
+import { assets } from '../assets/assets';
+
 const Header = () => {
   return (
     <div className='flex flex-col md:flex-row flex-wrap bg-primary rounded-lg px-6 md:px-10 lg-px-20'>

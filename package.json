@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@stripe/react-stripe-js": "^2.8.1",
+    "@stripe/stripe-js": "^4.8.0",
+    "stripe": "^17.2.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3"
+  }
+}
