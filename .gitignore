@@ -2,11 +2,8 @@
 
 # Node modules
 node_modules/
-
-# Environment variable files
-admin/.env
-backend/.env
-frontend/.env
+#secret
+.env
 
 # Build and log files (optional)
 dist/
