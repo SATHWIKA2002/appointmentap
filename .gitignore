@@ -5,7 +5,4 @@ node_modules/
 #secret
 .env
 
-# Build and log files (optional)
-dist/
-build/
-logs/
+
